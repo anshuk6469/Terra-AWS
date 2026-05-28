@@ -1,1 +1,1 @@
-<h1> Basic Terraform AWS Code </h1>
+<h1> Basic Terraform AWS Code for Training </h1>
